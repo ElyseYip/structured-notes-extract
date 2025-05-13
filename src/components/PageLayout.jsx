@@ -44,7 +44,6 @@ const PageLayout = ({ children }) => {
             overflow: "auto",
           }}
         >
-          <Toolbar />
           {children}
         </Grid>
       </Grid>
